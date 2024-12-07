@@ -11,4 +11,5 @@ We’ve noticed that most planning apps are quite similar, but many of them crea
 
 Ideas for projects usually come from observing what could improve people’s lives. I always analyze the challenges I face personally or hear about from others and think about how technology could solve them. In the case of Prostir, the key was to create a product that helps people maintain balance and avoid burnout.
 
-Link Prostir on the App Store: https://apps.apple.com/us/app/daily-planner-prostir/id6535696029
+Contact: lemask.app@gmail.com
+Twitter: https://x.com/skreepao
